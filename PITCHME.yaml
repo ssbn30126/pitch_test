@@ -1,3 +1,8 @@
-theme : sky
+
 slide-number : true
 footnote : "(c)furukawakikaku.jp"
+
+theme : moon
+highlight : monokai-sublime
+slide-number: true
+transition : fade
